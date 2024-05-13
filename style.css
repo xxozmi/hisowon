@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(232, 229, 177)
+}
+.b1{
+    width: auto;
+    height: 200px;
+    background-image: url(/다운로드.jpeg);
+    font-size: 40px;
+    text-align:right;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(245, 239, 70);
+    }
+.b2{
+    padding-left: 200px;
+}
+a:link{/*링크 방문 전*/
+ color:black}
+a:visited{/*링크 방문한 이후*/
+color: gray}
+a:active{
+    color:aqua
+}
+.b3{
+    padding-left: 320px;
+    font-weight: 900;
+    font-size:smaller
+}
+.b4{
+    padding-left: 200px;
+    font-weight: 900;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.b5{
+    padding-left: 200px;
+    color:gray;
+    font-size: smaller;
+    position:relative;
+    bottom: 60px
+}
+.b6{
+    padding-left: 200px;
+    font-size:small;
+    position:relative;
+    bottom:60px
+}
+.b7{
+    padding-left: 200px;
+    position:relative;
+    bottom:60px
+}
+.b8{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(232, 229, 177);
+    top: 40px;
+    left:400px;
+    position:relative;
+    text-align: top;
+    color:gray;
+    font-size: smaller;
+    font-weight: 200;
+    display:inline;}
+.b9{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(232, 229, 177);
+    bottom:150px;
+    left:500px;
+    position:relative;
+    text-align: center;
+    color: rgb(35, 35, 35);
+    font-size:xx-large;
+    font-weight: 300;
+    display:inline;
+}
+.b10{
+    position: absolute;
+    top:500px;
+    right:350px;
+}
+.b11{
+    position:fixed;
+    padding-left:1300px
+}
+.b12{
+    position:absolute;
+    top:920px;
+    right:350px;
+    color:rgb(75, 75, 75);
+    text-align: center;
+}
+.b13{
+    border:solid 2px rgb(195, 122, 34);
+    border-radius: 50px 50px;
+    width: 300px;
+    height:200px;
+    padding:20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:100;
+    font-size:medium;
+    text-align: center;
+    padding-top: 80px;
+    position:absolute;
+    left:670px;
+    top:1150px
+
+}
